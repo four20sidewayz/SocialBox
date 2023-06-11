@@ -1,3 +1,4 @@
+
 #!/bin/bash
 #Colors
 white="\033[1;37m"
